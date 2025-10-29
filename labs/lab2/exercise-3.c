@@ -7,7 +7,7 @@
 //     printf("Please enter 10 numbers:\n");
 //     for (int i = 1; i <= 10; i++){
 //         printf("Number #%d>> ", i);
-//         scanf("%d", &num);
+//         scanf("%d", &num);when
 //         sum += num;
 //     }
 
